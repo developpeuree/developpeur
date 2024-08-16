@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en"></html>
+
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="./styles.css" />
+    <meta name="viewport" content="width=, initial-scale="/>
+    <title> THE EAGLES-GROUP </title>
+  </head>
+
+  <body>
+    <div>
+      <p class="tt">Un groupe d'étude qui prime la volonté d'apprendre et de réussir</p>
+      <li class="enligne"><a href="#Accueil"> Accueil</a></li>
+      <li class="enligne"><a href="#A propos"> A propos</a></li>
+      <li class="enligne"><a href="#Travail"> Travail</a></li>
+      <li class="enligne"><a href="#Cv"> Cv</a></li>
+      <li class="enligne"><a href="#Contact"> Contact</a></li>
+      <a name="THE EAGLES-GROUP"> </a>
+    <h1><P class="title"> THE EAGLES-GROUP </P></h1>
+    <p><img src="logo eagles-group.png" alt="Eagles" aligner></p>
+    <nav>
+    <ol type="1"> 
+    <a name="Accueil"> </a>
+    <h1><a class="st" href="/Accueil/"> Accueil <section></h1> 
+    <h2><p class="pp"> Un groupe whatsapp disponible pour répondre aux préoccupation des élèves après les cours en présentiel.</p></h2>
+    <h2><p class="pp"> Un groupe whatsapp pour une meilleure orientation des elèves après le bac. </p></h2>
+    <h2><p class="pp">Des journées de motivation, d'orientation et de priére...</p></h2>
+      </section>
+    </a>
+    <a name="A propos"> </a>
+    <h1><a class="st" href="/A propos/"> A propos <section></h1>
+       <h2><p>L'Eagles-Group est un groupe d'étude de classe de TleD. Il débute entre Octobre et Novembre 2021 avec deux jeunes elèves M.Koffi Eliézer et M.Gola Christ dans une salle de tle C au lycée municipal 2 de Koummassi. </p></h2>
+       <h2><p class="pp"> Journée de motivation 2022-2023 </p></h2>
+       <h2><p class="pp"> Journée de motivation 2023-2024 </p></h2>
+       <h2><p class="pp"> Journée d'orientation 2023-2024 </p></h2>
+       <h2><p class="pp"> After-Bac 2023-2024 </p></h2>
+       <h2><p class="pp"> Pourcentages </p></h2>
+       <h2><p class="aligner"> Année scolaire 2021-2022: 62,5% </P></h2>
+       <h2><p class="aligner"> Année scolaire 2022-2023: 68,18% </p></h2>
+       <h2><p class="aligner"> Année scolaire 2023-2024: 70,59% </p></h2>
+      </section>
+      </a> 
+      <a name="Travail"> </a>
+      <h1><a class="st" href="/Travail/"> Travail <section></h1> 
+       <h2><p class="pp" class="aligner">Encadreur</p></h2>
+       <h2><p class="pp"  class="aligner">Superviseur</p></h2>
+       <h2><p class="pp" class="aligner">Trésorière</p></h2>
+      </section>
+      </a> 
+      <a name="Cv"> </a>
+      <h1><a class="st" href="/Cv/"> Cv <section></h1> 
+       <h2><p class="pp" class="aligner">BAC D,C ou E</p></h2>
+       <h2><p class="pp" class="aligner">Aimer le travail bien fait</p></h2>
+       <h2><P class="pp" class="aligner">Maitriser la matière de dispensation</p></h2>
+       <h2><P class="pp" class="aligner">La ponctualité et l'honnêteté</p></h2>
+      </section>
+      </a> 
+      <a name="Contact"> </a>
+      <h1><a class="st" href="/Contact/"> Contact <section></h1>
+       <h2><p class="pp" class="aligner">0575981835/0141487028</p></h2>
+      </section>
+      </a>
+      </ol>
+    </nav>
+    <form>
+      <label><p>Commentaire:</p></label>
+      <p><input type="text" placeholder="laissez un commentaire" /></p>
+      </form>
+    <footer>
+  <p>Répondeur mail: koffiemieneliezer@gmail.com</p> 
+  <p><a href="https://maps.app.goo.gl/AoiMxP26WuSRxrmn9">Localisation</a></p>
+  <p><a href="https://lycee.ecole-ci.online">Lien utile</a></p> 
+  <p> Koffi Eliézer</p>
+</footer>
+    <p><a  href="#THE EAGLES-GROUP"> start of page </a></p>
+      <!-- -->
+      </div>
+  </body>
+
+</html>
